@@ -1,5 +1,3 @@
-Link File: 
-
 **First, we use binwalk**
 
 ![image](https://user-images.githubusercontent.com/61643034/189169705-8a13928d-5f28-4cc5-bcbe-0dd14d671a4f.png)
